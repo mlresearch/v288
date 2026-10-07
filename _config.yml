@@ -3,7 +3,7 @@ booktitle: Proceedings of the International Conference on Neuro-symbolic Systems
 shortname: NeuS
 year: '2025'
 volume: '288'
-start: &1 2025-05-28
+start: 2025-05-28
 end: 2025-05-30
 published: 2025-07-08
 conference_number: '2'
@@ -72,7 +72,7 @@ conference:
   url: https://neus-2025.github.io/
   location: University of Pennsylvania, Philadelphia, Pennsylvania, USA
   dates:
-  - *1
+  - 2025-05-28
   - 2025-05-29
   - 2025-05-30
 analytics:
